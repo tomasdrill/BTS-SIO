@@ -145,7 +145,7 @@ Internet
 - Agent GLPI 1.17 déployé automatiquement via GPO Windows
 - GPO liée au domaine pfsense.local
 - Commande utilisée pour forcer l'application : `gpupdate /force`
-- Agent configuré : `server = http://192.168.1.5/glpi`
+- Agent configuré : `server = 192.168.1.5`
 
 #### 5. Inventaire automatique
 - 2 postes détectés automatiquement (PDT, PDT2)
